@@ -1,5 +1,5 @@
 # 💫 About Me:
-Name: João Gabriel;<br>University: Federal University of ABC (UFABC);<br>Course: Interdisciplinary Bachelor's Degree in Science and Technology (B&T);<br>Programming languages: JavaScript, Ruby, and Python;<br>Programming interests: Information security, Internet of Things, web development, and artificial intelligence;<br>Current projects: Creating simple applications to exercise programming skills.
+Name: João Gabriel;<br>University: Federal University of ABC (UFABC);<br>Course: Interdisciplinary Bachelor's Degree in Science and Technology (BC&T);<br>Programming languages: JavaScript, Ruby, and Python;<br>Programming interests: Information security, Internet of Things, web development, and artificial intelligence;<br>Current projects: Creating simple applications to exercise programming skills.
 
 
 ## 🌐 Socials:
