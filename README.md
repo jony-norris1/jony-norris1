@@ -18,11 +18,5 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/jony-norris1/jony-norris1/output/snake.svg" alt="Snake animation" />
-
-###
-
 
 
